@@ -20,6 +20,6 @@
   "homepage": "https://github.com/adnanxpkd/api-library-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.4"
   }
 }
