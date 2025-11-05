@@ -1,18 +1,18 @@
 {
   "name": "api-library-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "E-Library JSON Server",
   "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adnanxpkd/api-library-server.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["json-server", "api", "library"],
+  "author": "Adnan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adnanxpkd/api-library-server/issues"
